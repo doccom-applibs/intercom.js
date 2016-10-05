@@ -1,0 +1,13 @@
+{
+  "name": "diy/intercom.js",
+  "version": "1.0.1",
+  "main": "",
+  "description": "intercom.js",
+  "license": "Eclipse",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
